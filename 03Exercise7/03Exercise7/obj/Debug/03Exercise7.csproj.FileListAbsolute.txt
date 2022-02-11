@@ -1,0 +1,6 @@
+/Users/nghivo/Documents/03Exercise7/03Exercise7/bin/Debug/03Exercise7.exe
+/Users/nghivo/Documents/03Exercise7/03Exercise7/bin/Debug/03Exercise7.pdb
+/Users/nghivo/Documents/03Exercise7/03Exercise7/obj/Debug/03Exercise7.csprojAssemblyReference.cache
+/Users/nghivo/Documents/03Exercise7/03Exercise7/obj/Debug/03Exercise7.csproj.CoreCompileInputs.cache
+/Users/nghivo/Documents/03Exercise7/03Exercise7/obj/Debug/03Exercise7.exe
+/Users/nghivo/Documents/03Exercise7/03Exercise7/obj/Debug/03Exercise7.pdb

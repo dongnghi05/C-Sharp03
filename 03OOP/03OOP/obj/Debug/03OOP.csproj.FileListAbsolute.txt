@@ -1,0 +1,6 @@
+/Users/nghivo/Projects/03OOP/03OOP/bin/Debug/03OOP.exe
+/Users/nghivo/Projects/03OOP/03OOP/bin/Debug/03OOP.pdb
+/Users/nghivo/Projects/03OOP/03OOP/obj/Debug/03OOP.csprojAssemblyReference.cache
+/Users/nghivo/Projects/03OOP/03OOP/obj/Debug/03OOP.csproj.CoreCompileInputs.cache
+/Users/nghivo/Projects/03OOP/03OOP/obj/Debug/03OOP.exe
+/Users/nghivo/Projects/03OOP/03OOP/obj/Debug/03OOP.pdb
